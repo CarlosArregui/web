@@ -1,0 +1,103 @@
+#body{
+	margin: auto;
+	background: linear-gradient(to right, white , skyblue);
+}
+#cabecera{
+	height:130px;
+	width:100%;
+	background: linear-gradient(to right, white , skyblue, white);
+}
+#logo{
+	float: left;
+	height:60px;
+	width:130px;
+	
+	
+}
+#ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+.li {
+    float: left;
+	
+}
+
+.lia {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 36px;
+    text-decoration:none;
+}
+
+.lia:hover {
+    background-color: #111;
+}
+#footer {
+  color: white;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 12px;
+  background-color: #333;
+  text-align: center;
+}
+.imgsm{
+	height:30px;
+	width:30px;
+	margin-bottom:0px;
+}
+#ulf{
+	list-style-type: none;
+	margin-left:39%;
+}
+.lif{
+	float: left;
+	margin-left:20px;
+	
+}
+#centro{
+	height:400px;
+	width:600px;
+	margin-left:30px;
+	background-color: #333;
+	color:white;
+	
+}
+#contacto{
+	color:white;
+	text-align:center;
+}
+#listado{
+	  list-style-type: none;
+}
+.puntos{
+	
+	font-size:16px;
+	padding-right:16px;
+}
+#mapa{
+	float:right;
+	margin-right:30px;
+	margin-top:22px;
+}
+#img{
+	height:160px;
+	width:220px;
+	float:right;
+	margin-right:15px;
+}
+
+
+
+
+	

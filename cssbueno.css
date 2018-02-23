@@ -1,0 +1,159 @@
+﻿.titulo_1{
+	color:#0D6905;
+	font-size:40px;
+}
+
+#p_1{
+	padding-left:70px;
+	padding-right:70px;
+	font-size:20px;
+	text-align:justify;
+	line-height:30px;
+}
+.titulo_2{
+	color:#F80A0A;
+	font:60px;
+	text-align:center;
+	background: linear-gradient(to right, white , #C1F8BC, white);
+	height:20px;
+	width:100%;
+}
+#imgtd{
+	background-image: url("img/mision.jpg");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+#imgtd2{
+	background-image: url("img/vision.jpg");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+#imgtd3{
+	background-image: url("img/manoss.png");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+#imgtd4{
+	background-image: url("img/respeto.jpg");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+#imgtd5{
+	background-image: url("img/liderazgo.jpg");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+#imgtd6{
+	background-image: url("img/sociedad.jpg");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+#imgtd7{
+	background-image: url("img/integridad.png");
+	padding-top:100px;
+	height: 180px;
+	width:410px;
+	padding-left:5px;
+}
+.texto{
+	height:125px;
+	width:400px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:5px;
+	text-align:justify;
+	background-color:rgba(255, 255, 255,0.85);
+	
+}
+
+#body{
+	margin: auto;
+	background: linear-gradient(to right, white , skyblue);
+}
+#cabecera{
+	height:130px;
+	width:100%;
+	background: linear-gradient(to right, white , skyblue, white);
+}
+#logo{
+	float: left;
+	height:60px;
+	width:130px;
+	
+	
+}
+#ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+.li {
+	
+    float: left;
+	
+}
+
+.lia {
+	
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 36px;
+    text-decoration:none;
+}
+
+.lia:hover {
+	
+    background-color: #111;
+}
+#footer {
+  color: white;
+  height: 100px;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 12px;
+  background-color: #333;
+  text-align: center;
+ 
+}
+.imgsm{
+	height:30px;
+	width:30px;
+}
+#ulf{
+	list-style-type: none;
+	margin-left:39%;
+}
+.lif{
+	float: left;
+	margin-left:20px;
+	
+}
+img{
+	height:50%;
+	width:50%;
+}
+tr{
+	flex-direction:nowrap;
+}

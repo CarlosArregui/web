@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Pagina web</title>
+		<link rel="stylesheet" type="text/css" href="cssbueno.css"/>
+	</head>
+	<body>
+		<body id="body">
+			
+		<ul id="ul">
+			<img src="img/logo.png" id="logo">
+			<li class="li lia"><a href="servicios.html">Servicios</a></li>
+			<li class="li lia"><a href="Logística.html">Consultoría Logística</a></li>
+			<li class="li lia"><a href="contacto.html">Contacto</a></li>
+			<li class="li lia"><a href="Reclutamiento.html">R.R.H.H.</a></li>
+		</ul>
+		
+		<div class="titulo_1">
+			<p align=center>¿Quiénes somos?
+		</div>
+		<div id="p_1">
+			La necesaria vinculación entre los estudios y su aplicación profesional nos
+			llevó a plantearnos este reto: crear, simular una asesoría consultoría ”real”,
+			en la que pudiéramos desarrollar no sólo todo lo aprendido en cuanto a
+			conocimientos teóricos se refiere, sino también dentro de un entorno en el
+			que se pudieran trabajar también competencias transversales como la
+			autonomía, autocrítica, capacidad de organización, trabajo en equipo,
+			colaboración, atención al cliente, etc.
+			<p>
+				Somos gente joven, formada, ilusionada, con ganas de enfrentarnos a retos
+				y dispuestos a dar lo mejor de nosotros mismos: sólo necesitamos para
+				garantizar el éxito de nuestra actividad, tu confianza, futuro cliente.
+			</p>
+		</div>
+			
+				<table cellspacing= "10px">
+					<tr>
+						<td>
+							<div class="titulo_2">MISIÓN</div>
+								<hr>
+							<div id="imgtd">	
+								
+								<div class="texto">
+									El propósito de BCON es dar la máxima seguridad al empresario,
+									acompañándole en situaciones complejas a nivel fiscal, contable y laboral.
+									Tratamiento individual, personalizado y de calidad ajustado a las
+									necesidades de Autónomos, PYMEs y grandes empresas. Trabajamos en
+									equipo en la búsqueda de la mejor solución para nuestro cliente.
+								</div>
+								
+							</div>
+						</td>
+						
+						<td>
+							<div class="titulo_2">VISIÓN</div>
+								<hr>
+								<div id="imgtd2">
+									<div class="texto">	
+										Generar confianza en la sociedad, desde la constante innovación, que nos
+										ayude a convertirnos, mantenernos y seguir siendo líderes en soluciones
+										contables, administrativas, laborales y financieras. Desarrollar un plan de
+										acción cuya meta es lograr el éxito de nuestras empresas clientes y de sus
+										proyectos. De esta manera contribuimos al crecimiento de nuestra sociedad
+										y apostamos por su desarrollo.
+									</div>
+									
+								</div>
+									</td>
+						
+						<td>
+							<div class="titulo_2">VALORES</div>
+								<hr>
+								<div id="imgtd3">
+									<div class="texto">	
+										En nuestro Código de Conducta recogemos los valores en los que basamos
+										nuestro comportamiento, enfocado siempre a generar confianza. Estamos en
+										un momento de cambio constante, tanto tecnológico como social, donde
+										nuestros clientes y la sociedad en general, se están enfrentando a cuestiones
+										cada vez más complejas.
+									</div>
+								</div>
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							<div class="titulo_2">RESPETO</div>
+								<hr>
+								<div id="imgtd4">
+									<div class="texto">	
+										Respeto hacia la persona por lo que es: sus habilidades, conocimientos y
+										experiencias como individuo y por lo que aporta día a día a todo nuestro
+										equipo.
+									</div>
+								</div>
+						</td>
+						
+						<td>
+							<div class="titulo_2">LIDERAZGO</div>
+								<hr>
+								<div id="imgtd5">
+									<div class="texto">	
+										Liderar el mercado dando ejemplo de buenas prácticas, actuando de manera
+										que seamos un ejemplo continuo en todo el mundo. Trabajamos todos como
+										una familia aportando lo mejor de cada uno.
+									</div>
+								</div>
+						</td>
+						
+						<td>
+							<div class="titulo_2">SOCIEDAD</div>
+								<hr>
+								<div id="imgtd6">
+									<div class="texto">	
+										Actuamos con responsabilidad, día a día, dando lo mejor, a través de
+										nuestro compromiso con la constante innovación y con la aplicación correcta
+										de la ley.
+									</div>
+								</div>
+						</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>
+							<div class="titulo_2">INTEGRIDAD</div>
+								<hr>
+								<div id="imgtd7">
+									<div class="texto">	
+										En definitiva, creemos en la integridad. Manteniendo en todo momento
+										nuestra profesionalidad, objetividad, excelencia y un comportamiento ético
+										ejemplar.
+									</div>
+								</div>
+						</td>
+						<td></td>
+					</tr>
+				</table>
+		
+		<div id="footer">
+		
+			Local: 914 64 45 55
+			
+		<ul id="ulf">
+			
+			<li class="lif"><a href="https://twitter.com/ueuropea?lang=es"><img src="img/twitter.png" alt="Siguenos en Twitter" class="imgsm"/></a></li>
+			<li class="lif"><a href="https://www.facebook.com/UnivEuropea/"><img src="img/facebook.png" alt="Siguenos en Facebook" class="imgsm"/></a></li>
+			<li class="lif"><a href="https://www.linkedin.com/school/universidad-europea-de-madrid/"><img src="img/linkedin.png" alt="Siguenos en Linkedin" class="imgsm"/></a></li>
+			<li class="lif"><a href="https://www.youtube.com/channel/UCxTAaPIBatepRb6XMdO_V7g"><img src="img/youtube.png" alt="Siguenos en Youtube" class="imgsm"/></a></li>			
+		</ul>
+		</div>
+	</body>
+</html>
